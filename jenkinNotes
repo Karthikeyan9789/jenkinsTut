@@ -10,3 +10,5 @@ docker run \
 -p 50000:50000 \
 -v /home/tealorca15/karthi/karthi/Jenkins/jenkins_home:/var/jenkins_home \
 jenkins/jenkins
+
+Test
